@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	slacktest "github.com/lusis/slack-test"
-	"github.com/nlopes/slack"
+	slack "github.com/pendo-io/nlopes-slack-fork"
 	"github.com/stretchr/testify/assert"
 )
 

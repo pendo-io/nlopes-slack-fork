@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/nlopes/slack"
+	slack "github.com/pendo-io/nlopes-slack-fork"
 )
 
 func TestParserOuterCallBackEvent(t *testing.T) {
