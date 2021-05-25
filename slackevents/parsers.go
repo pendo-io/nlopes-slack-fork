@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/nlopes/slack"
+	slack "github.com/pendo-io/nlopes-slack-fork"
 )
 
 // eventsMap checks both slack.EventsMapping and
