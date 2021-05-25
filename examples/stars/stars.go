@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/nlopes/slack"
+	slack "github.com/pendo-io/nlopes-slack-fork"
 )
 
 func main() {

@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/nlopes/slack"
+	slack "github.com/pendo-io/nlopes-slack-fork"
 )
 
 func main() {
